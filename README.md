@@ -52,7 +52,7 @@ Replace architecture.png with your actual architecture diagram file in the repo.
 
 🖼️ Frontend Snapshot
 
-Replace frontend_snapshot.png with a real screenshot of your UI placed in the repo.
+![Frontend Snapshot](Screenshot 2025-07-10 000940.png).
 
 
 🧾 Log Structure
