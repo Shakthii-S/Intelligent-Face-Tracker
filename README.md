@@ -37,13 +37,11 @@ python main.py
 
 ```
 ## 🛠️ Sample config.json
-json
-
-Edit
-{
-  "skip_frames": 3,
-  "similarity_threshold": 0.5,
-  "video_source": "video.mp4"
-}
+**json
+**Edit
+**{
+**"skip_frames": 3,**"similarity_threshold": 0.5,
+**"video_source": "video.mp4"
+**}
 
  “This project is a part of a hackathon run by https://katomaran.com ”
