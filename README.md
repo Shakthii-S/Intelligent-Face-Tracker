@@ -52,7 +52,8 @@ Replace architecture.png with your actual architecture diagram file in the repo.
 
 🖼️ Frontend Snapshot
 
-![Frontend Snapshot](Screenshot 2025-07-10 000940.png).
+![Frontend Snapshot](Screenshot 2025-07-10 000940.png)
+
 
 
 🧾 Log Structure
