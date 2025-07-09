@@ -46,13 +46,6 @@ Edit
   "similarity_threshold": 0.5,
   "video_source": "video.mp4"
 }
-🏗️ Architecture Diagram
-
-Replace architecture.png with your actual architecture diagram file in the repo.
-
-🖼️ Frontend Snapshot
-
-![Frontend Snapshot](Screenshot 2025-07-10 000940.png)
 
 
 
