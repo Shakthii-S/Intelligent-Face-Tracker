@@ -73,7 +73,6 @@ Config: JSON (config.json)
 🙋‍♀️ Author
 Shakthi S
 
-🏁 Final Note
-This project is a part of a hackathon run by https://katomaran.com
+
 
 
